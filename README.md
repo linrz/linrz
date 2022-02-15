@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-I am a developer based in China, currently working remotely from home. Typical username is `linrz`, after being serialized, it is `[object Linrz]`. (￣▽￣)"
-
-Previously worked at [youzan](https://github.com/youzan) and [XMind](https://github.com/xmindltd), built [Teamind](https://teamind.co) from scratch.
-
-Now doing something that interests me and learn some knowledge that is not good at the field such as finance and iOS.
+Code for fun.
 
 
 <div>
