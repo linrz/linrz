@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Code for fun.
+Coding for fun.
 
 
 <div>
